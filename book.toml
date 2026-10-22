@@ -1,0 +1,7 @@
+[book]
+title = "AI Agent Wallet Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/ai-agent-wallet-security"
